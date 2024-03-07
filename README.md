@@ -52,4 +52,4 @@ Pff... no. The scope of this little script is much too small for me to need any 
 
 ## Shout Out/Mention
 
-Special thanks to [@lizTheDeveloper](https://github.com/lizTheDeveloper) for coaxing (and coaching) so many of us out from underneath the covers and back into the forray of job hunting. Would probably still be glue to my bed without your splendidly monotoned motivationals. 😃
+Special thanks to [@lizTheDeveloper](https://github.com/lizTheDeveloper) for coaxing (and coaching) so many of us out from underneath the covers and back into the forray of job hunting. Would probably still be glued to my bed without your splendidly even-toned motivationals. 😃
